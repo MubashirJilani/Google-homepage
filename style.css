@@ -1,0 +1,97 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+    align-items: center;
+}
+.gmail{
+    color: black;
+    font-size: 17px;
+}
+.gmail:hover{
+    color: rgb(123, 119, 119);
+}
+.point:hover{
+    background-color: gray;
+}
+.inpu{
+    background-color: white;
+    width: 500px;
+    height: 50px;
+    border: 1px solid rgb(184, 182, 182);
+    border-radius: 30px;
+    box-shadow: 4px 4px 4px rgb(121, 120, 120);
+}
+.inpu:hover{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(217, 217, 217);
+    box-shadow: 4px 4px 4px rgb(59, 59, 59);
+    padding: 0px;
+}
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.btn{
+    margin-left: 10px;
+    border: 1px solid white;
+    height: 35px;
+    background-color: white;
+    border-radius: 5px;
+}
+.btn:hover{
+    border: 1px solid gray;
+    box-shadow: 2px 2px 2px rgb(89, 88, 88)
+}
+.toni{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.offer{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 5px;
+    color: rgb(36, 36, 36);
+}
+.lang{
+    color: rgb(117, 117, 185);
+}
+.lang:hover{
+    color: rgb(146, 145, 145);
+}
+.footer{
+    display: flex;
+    margin-top: 103px;
+    background-color: rgb(255, 254, 254);
+    border: 2px solid rgb(203, 201, 201);
+    border-bottom: none;
+    height: 50px;
+}
+.one{
+    margin-left: 20px;
+}
+.foo{
+    display: flex;
+    justify-content: right;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(203, 201, 201);
+    padding-bottom: 5px;
+    height: 50px;
+}
+.two{
+    margin: 15px;
+}
+h4{
+    color: rgb(37, 36, 36);
+}
